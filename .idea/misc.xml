@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/arvad/AndroidStudioProjects/20.12.1761-API-Login/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/arvad/AndroidStudioProjects/20.12.1781-API-Login/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/arvad/AndroidStudioProjects/AplikasiPCS/app/src/main/res/drawable/ic_launcher_background.xml" value="0.148" />
         <entry key="..\:/Users/arvad/AndroidStudioProjects/AplikasiPCS/app/src/main/res/layout/activity_login.xml" value="0.25" />
       </map>
     </option>
